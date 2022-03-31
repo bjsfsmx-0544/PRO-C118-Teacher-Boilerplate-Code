@@ -5,7 +5,7 @@ from tensorflow.keras.preprocessing.text import Tokenizer
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 from tensorflow.keras.models import load_model
 from datetime import datetime
-#Hacer el diccionario de código y URL para las diferentes emociones
+#Hacer el diccionario del código y URL para las diferentes emociones
 emo_code_url = {
     "empty": [0, "./static/assets/emoticons/Empty.png"],
     "sadness": [1, "./static/assets/emoticons/Sadness.png"],
