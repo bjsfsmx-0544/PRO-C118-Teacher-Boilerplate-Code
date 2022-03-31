@@ -2,7 +2,7 @@
 IMPLEMENTACIÓN DE APLICACIÓN WEB: Diario digital  
 Python. Flask. jQuery.  
   
-Lesson plan.  
-Plantilla de código de la maestra.  
+Plan de la clase.  
+Plantilla del código de la maestra.  
   
 ### Texto en inglés: PRO-C118-Teacher-Boilerplate-Code
