@@ -7,7 +7,7 @@ text=""
 predicted_emotion=""
 predicted_emotion_img_url=""
 
-#Renderizar página HTML
+#Renderizar la página HTML
 @app.route("/")
 def home():
     entries = show_entry()
